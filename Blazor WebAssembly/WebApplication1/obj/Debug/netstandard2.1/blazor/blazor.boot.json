@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "WebApplication1.dll": "sha256-n5Vl9SNLe5yqSNeSgyefzHambIPKhc4XVHlob+UeDvY=",
+      "WebApplication1.dll": "sha256-KmoG+Zy2eMhF5bGaKujRvhoW9yqu9eeQb98IxiU2kno=",
       "Microsoft.AspNetCore.Blazor.HttpClient.dll": "sha256-1xfOnnlZZg19s2R3vH\/UX9m3dprauIFLdeaYzgmiwc0=",
       "System.Text.Json.dll": "sha256-pzCorxTCjbUODF5JuRgcHc8gVYEdSaKD9NWA6wZhTPE=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-fom8\/iCIAJjiOFGTfsevXMd0zQP6\/nFmuTkPAk1OBqs=",
@@ -58,7 +58,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-Sljk6nvSPSpTCrJ6+bd12XiNuOwqOHEKHPSBoINTtWo="
     },
     "pdb": {
-      "WebApplication1.pdb": "sha256-ga9RUqLCCwabuk631BjIL8S8stcYoomF4LOv1XVbRO4="
+      "WebApplication1.pdb": "sha256-CKyc+7iS++vkkHnVGAueEJ96agVAyuCQDbqtRlVGMhI="
     },
     "runtime": {
       "dotnet.3.2.0-preview3.20168.1.js": "sha256-274clLanSGrn5tb3h9iFyKyVG0KYG2Um+VHF0kdNzHE=",

@@ -1,15 +1,17 @@
-﻿<!DOCTYPE html>
+﻿OCTYPE html>
 <html>
+
 <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
     <title>Blazor WebAssembly Example</title>
-    <base href="/Blazor/" />
+    <!-- <base href="/" /> -->
     <link href="css/bootstrap/bootstrap.min.css" rel="stylesheet" />
     <link href="css/site.css" rel="stylesheet" />
 </head>
+
 <body>
-    <div id="app">Loading...</div>
+    <app>Loading...</app>
 
     <!-- Start Single Page Apps for GitHub Pages -->
     <script type="text/javascript">
@@ -43,9 +45,12 @@
     </script>
     <!-- End Single Page Apps for GitHub Pages -->
 
-    <!-- Temporary polyfill for IE support -->
-    <script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=Promise,fetch"></script>
-
-    <script src="/_framework/Blazor.Host.min.js" main="MicroApp.dll"></script>
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="" class="reload">Reload</a>
+        <a class="dismiss">🗙</a>
+    </div>
+    <script src="_framework/blazor.webassembly.js"></script>
 </body>
+
 </html>
